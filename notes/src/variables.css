@@ -1,0 +1,17 @@
+:root {
+  --background-color: #27292d;
+  --background-block-color: #1f2023;
+  --text-color: #e4e5e5;
+  --border-color: #575757;
+  --button-color: #8b8b8b;
+  --button-text-color: #000000;
+}
+
+#app.theme-light {
+  --background-color: #ffffff;
+  --text-color: #3b3b3b;
+  --background-block-color: #e6eaeb;
+  --border-color: #575757;
+}
+
+/*# sourceMappingURL=variables.css.map */
